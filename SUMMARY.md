@@ -1,3 +1,3 @@
 # Table of contents
 
-* [ทดสอบ](README.md)
+* [วิธีติดตั่ง HappyHUD](README.md)
