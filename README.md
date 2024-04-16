@@ -58,4 +58,8 @@ copy-resource-pack:
   enabled: false
 ```
 
-3\. รันคำสั่ง /happyhud reload 4. คัดลอกไฟล์ "HappyHUD\built-pack" และนำไปวางในรีซอลแพ็คของท่าน 5. รีโหลดรีซอลแพ็ค
+3\. รันคำสั่ง /happyhud reload&#x20;
+
+4\. คัดลอกไฟล์ "HappyHUD\built-pack" และนำไปวางในรีซอลแพ็คของท่าน&#x20;
+
+5\. รีโหลดรีซอลแพ็ค
