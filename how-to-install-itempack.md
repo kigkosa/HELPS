@@ -1,5 +1,5 @@
 ---
-description: Drag&Drop file
+description: Drag Drop file into plugin folder.
 layout:
   title:
     visible: true
@@ -15,6 +15,3 @@ layout:
 
 # How to install itempack
 
-## ITEMADDER
-1. asa
-2. bbb
