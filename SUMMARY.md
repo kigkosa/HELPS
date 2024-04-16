@@ -1,3 +1,4 @@
 # Table of contents
 
-* [วิธีติดตั้ง HappyHUD](README.md)
+* [👋Welcome](README.md)
+* [วิธีติดตั้ง HappyHUD](readme.md)
