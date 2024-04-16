@@ -20,7 +20,7 @@ layout:
 
 • Itemsadder (with LoneLibs and ProtocolLibs) or Oraxen&#x20;
 
-• HappyHUD-1.0.13-RELEASE&#x20;
+• HappyHUD
 
 • PlaceholderAPI&#x20;
 
