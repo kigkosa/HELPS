@@ -7,9 +7,9 @@
 
 
 1. If you have an old 'HappyHUD' folder, please delete it and install the new one
-2. Disable ItemsAdder Text Effects.
-3. Disable ItemsAdder Hide Scoreboard Numbers.
-4.  In the HappyHud config.yml set copy-resource-pack to enabled: true and make the pathcopy-\
+2. Disable [ItemsAdder Text Effects](https://itemsadder.devs.beer/plugin-usage/text-effects-1.17+).
+3. Disable [ItemsAdder Hide Scoreboard Numbers](https://itemsadder.devs.beer/plugin-usage/scoreboard/hide-scoreboard-numbers-1.17+).
+4.  In the `HappyHud\config.yml`\
 
 
     ```yaml
