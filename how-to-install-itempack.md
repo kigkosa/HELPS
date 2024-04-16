@@ -26,6 +26,10 @@ layout:
 
 • ProtocolLib
 
+{% hint style="danger" %}
+**Make sure** that all of your plugins and server software are up to date!
+{% endhint %}
+
 ## How to install
 
 STEP 1: • Please double-check to ensure that you have installed the plugins as we have specified.
