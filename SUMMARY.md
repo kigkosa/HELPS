@@ -1,4 +1,5 @@
 # Table of contents
 
-* [How to install HappyHUD](README.md)
+* [👋Welcome](README.md)
+* [How to install HappyHUD](<README (1).md>)
 * [How to install itempack](how-to-install-itempack.md)
