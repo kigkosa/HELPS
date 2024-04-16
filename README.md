@@ -12,9 +12,9 @@ layout:
     visible: false
 ---
 
-# วิธีติดตั่ง HappyHUD
+# วิธีติดตั้ง HappyHUD
 
-## วิธีติดตั่ง  HappyHUD ลง Itemadder:
+## วิธีติดตั้ง  HappyHUD ลง Itemadder:
 
 1. ถ้าคุณมีโฟลเดอร์ 'HappyHUD' เก่าอยู่ ให้ลบออกแล้วติดตั้งโฟลเดอร์ใหม่
 2. ปิดใช้งาน [ItemsAdder Text Effects](https://itemsadder.devs.beer/plugin-usage/text-effects-1.17+).
@@ -33,10 +33,10 @@ layout:
 5. รันคำสั่ง `/happyhud reload`
 6. รันคำสั่ง `/iazip`
 
-## วิธีติดตั่ง  HappyHUD ลง Oraxen :
+## วิธีติดตั้ง  HappyHUD ลง Oraxen :
 
 1. ถ้าคุณมีโฟลเดอร์ 'HappyHUD' เก่าอยู่ ให้ลบออกแล้วติดตั้งโฟลเดอร์ใหม่
-2. ตั่งค่า `hide_scoreboard_numbers: false` ในไฟล์ settings.yml 
+2. ตั้งค่า `hide_scoreboard_numbers: false` ในไฟล์ settings.yml 
 3. ลบไฟล์ `Oraxen/pack/shaders/core/rendertype_text.json` และ `rendertype_text.vsh` ถ้าหากมี
 4.  แก้ไขไฟล์ `HappyHud/config.yml` 
 
@@ -52,7 +52,7 @@ layout:
 5. รันคำสั่ง /happyhud reload
 6. รันคำสั่ง /o reload all
 
-## วิธีติดตั่ง  HappyHUD ลงดีฟอลรีซอลแพ็ค :
+## วิธีติดตั้ง  HappyHUD ลงดีฟอลรีซอลแพ็ค :
 
 1. ถ้าคุณมีโฟลเดอร์ 'HappyHUD' เก่าอยู่ ให้ลบออกแล้วติดตั้งโฟลเดอร์ใหม่
 2.   แก้ไขไฟล์ `HappyHud/config.yml` 
