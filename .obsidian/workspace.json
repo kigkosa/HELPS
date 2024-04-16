@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ebf092b593578b53",
+        "id": "b23fa4dfb6b724b4",
         "type": "tabs",
         "children": [
           {
-            "id": "8bf4e6cfcda0c51a",
+            "id": "e62c28c9dae9aaf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "how-to-install-itempack.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ตั่ง",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5
   },
   "right": {
     "id": "1e2a98dab5153440",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "how-to-install-itempack.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "how-to-install-itempack.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "how-to-install-itempack.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,6 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8bf4e6cfcda0c51a",
-  "lastOpenFiles": []
+  "active": "e62c28c9dae9aaf9",
+  "lastOpenFiles": [
+    "how-to-install-happyhud.md",
+    "README (1).md",
+    "how-to-install-itempack.md",
+    "SUMMARY.md",
+    "README.md",
+    "README - Copy.md"
+  ]
 }
