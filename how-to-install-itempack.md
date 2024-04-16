@@ -1,5 +1,5 @@
 ---
-description: Drag Drop file into plugin folder.
+description: Drag & Drop file into plugin folder.
 layout:
   title:
     visible: true
