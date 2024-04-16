@@ -12,30 +12,28 @@ layout:
     visible: false
 ---
 
-# How to install itempack
+# วิธีติดตั้งไอเทมแพ็ค
 
-## How to install itempack
+#### ต้องการปลั๊กอิน
 
-#### Requirement
-
-• Itemsadder (with LoneLibs and ProtocolLibs) or Oraxen&#x20;
+• Itemsadder (ต้องมี LoneLibs และ ProtocolLibs) หรือ Oraxen
 
 • HappyHUD
 
-• PlaceholderAPI&#x20;
+• PlaceholderAPI
 
 • ProtocolLib
 
 {% hint style="danger" %}
-**Make sure** that all of your plugins and server software are up to date!
+ตรวจสอบให้แน่ใจว่าปลัํกอินของท่านใหม่เสมอ
 {% endhint %}
 
-## How to install
+## วิธีการติดตั่ง
 
-STEP 1: • Please double-check to ensure that you have installed the plugins as we have specified.
+STEP 1: • เช็คปลั๊กอินที่กำหนดว่าครบหรือไม่
 
-STEP 2: • Copy both "Itemsadder" or "Oraxen" into your plugins folder of your server.
+STEP 2: • คัดลอกไฟล์ "Itemsadder" หรือ "Oraxen" ลงในโฟนเดอร์ plugins&#x20;
 
-STEP 3: • use the command '/ia zip' or '/o reload all'.&#x20;
+STEP 3: • รันคำสั่ง '/ia zip' หรือ '/o reload all'.
 
-STEP 4: • enjoy!!
+STEP 4: • สำเร็จ!!
