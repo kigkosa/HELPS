@@ -32,4 +32,6 @@ STEP 1: • Please double-check to ensure that you have installed the plugins as
 
 STEP 2: • Copy both "Itemsadder" or "Oraxen" into your plugins folder of your server.
 
-STEP 3: • use the command '/ia zip' or '/o reload all'. STEP 4: • enjoy!!
+STEP 3: • use the command '/ia zip' or '/o reload all'.&#x20;
+
+STEP 4: • enjoy!!
