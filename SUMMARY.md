@@ -1,3 +1,4 @@
 # Table of contents
 
-* [How to install happyhud](README.md)
+* [Choose another language](README.md)
+* [How to install happyhud](<README (1).md>)
