@@ -11,17 +11,12 @@
             "id": "e62c28c9dae9aaf9",
             "type": "leaf",
             "state": {
-<<<<<<< Updated upstream
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "how-to-install-itempack.md",
                 "mode": "source",
                 "source": false
               }
-=======
-              "type": "empty",
-              "state": {}
->>>>>>> Stashed changes
             }
           }
         ]
@@ -90,10 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "README.md",
-=======
->>>>>>> Stashed changes
+                "file": "how-to-install-itempack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,10 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "README.md",
-=======
->>>>>>> Stashed changes
+                "file": "how-to-install-itempack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,13 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< Updated upstream
               "state": {
-                "file": "README.md"
+                "file": "how-to-install-itempack.md"
               }
-=======
-              "state": {}
->>>>>>> Stashed changes
             }
           }
         ]
@@ -161,19 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< Updated upstream
   "active": "e62c28c9dae9aaf9",
   "lastOpenFiles": [
+    "README.md",
     "how-to-install-happyhud.md",
     "README (1).md",
     "how-to-install-itempack.md",
     "SUMMARY.md",
-=======
-  "active": "9ceb6c21a393ebf9",
-  "lastOpenFiles": [
-    "how-to-install-itempack.md",
->>>>>>> Stashed changes
-    "README.md",
     "README - Copy.md"
   ]
 }
