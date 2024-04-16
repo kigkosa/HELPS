@@ -1,7 +1,3 @@
----
-description: test
----
-
 # How to install happyhud
 
 
@@ -23,3 +19,8 @@ description: test
         minecraft: "ItemsAdder/contents"
         happyhud: "ItemsAdder/contents"
     ```
+
+
+5. Run command `/happyhud reload`
+6. run command `/iazip`
+
