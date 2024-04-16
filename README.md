@@ -19,7 +19,7 @@ layout:
 1. If you have an old 'HappyHUD' folder, please delete it and install the new one
 2. Disable [ItemsAdder Text Effects](https://itemsadder.devs.beer/plugin-usage/text-effects-1.17+).
 3. Disable [ItemsAdder Hide Scoreboard Numbers](https://itemsadder.devs.beer/plugin-usage/scoreboard/hide-scoreboard-numbers-1.17+).
-4.  In the `HappyHud\config.yml`
+4.  In the `HappyHud/config.yml`
 
     ```yaml
     copy-resource-pack:
@@ -55,7 +55,7 @@ layout:
 ## Defualt Resoure Pack & HappyHUD Setup:
 
 1. If you have an old 'HappyHUD' folder, please delete it and install the new one
-2.  In the HappyHud config.yml set copy-resource-pack to enabled: false\
+2.  In the `HappyHud/config.yml` set `copy-resource-pack to enabled: false`\
 
 
     ```yaml
