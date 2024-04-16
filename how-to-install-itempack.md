@@ -34,7 +34,7 @@ layout:
 
 1\. Please double-check to ensure that you have installed the plugins as we have specified.
 
-2\. Copy both "Itemsadder" or "Oraxen" into your plugins folder of your server.
+2\. Copy both "ItemsAdder Setup/Itemsadder" or "Oraxen Setup/Oraxen" into your plugins folder of your server.
 
 3\. use the command '/ia zip' or '/o reload all'.&#x20;
 
