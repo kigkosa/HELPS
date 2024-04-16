@@ -1,3 +1,3 @@
 # Table of contents
 
-* [How to install happyhud](README.md)
+* [ทดสอบ](README.md)
