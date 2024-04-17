@@ -19,7 +19,7 @@ layout:
 1. Si vous avez un ancien dossier « HappyHUD », supprimez-le et installez le nouveau.
 2. Désactiver [ItemsAdder Text Effects](https://itemsadder.devs.beer/plugin-usage/text-effects-1.17+).
 3. Désactiver [ItemsAdder Hide Scoreboard Numbers](https://itemsadder.devs.beer/plugin-usage/scoreboard/hide-scoreboard-numbers-1.17+).
-4.  In the `HappyHud/config.yml`
+4.  Modifier le fichier `HappyHud/config.yml`
 
     ```yaml
     copy-resource-pack:
@@ -35,8 +35,8 @@ layout:
 
 1. Si vous avez un ancien dossier « HappyHUD », supprimez-le et installez le nouveau.
 2. Set `hide_scoreboard_numbers: false` in your settings.yml file.
-3. Delete `Oraxen/pack/shaders/core/rendertype_text.json` and `rendertype_text.vsh` if they exist.
-4.  In the HappyHud config.yml set `copy-resource-pack` to `enabled: true` and make the path `path: Oraxen/pack/assets`.
+3. Supprimez Oraxen/pack/shaders/core/rendertype\_text.json et rendertype\_text.vsh s'ils existent.
+4.  Modifier le fichier `HappyHud/config.yml`&#x20;
 
     ```yaml
     copy-resource-pack:
@@ -51,12 +51,12 @@ layout:
 ### Pack de ressources par défaut et configuration HappyHUD
 
 1. Si vous avez un ancien dossier « HappyHUD », supprimez-le et installez le nouveau.
-2.  In the `HappyHud/config.yml` set `copy-resource-pack to enabled: false`\\
+2.  Modifier le fichier `HappyHud/config.yml`&#x20;
 
     ```yaml
     copy-resource-pack:
       enabled: false
     ```
 3. Exécuter la commande /happyhud reload
-4. Copy the files from "HappyHUD\built-pack" and paste them into the resource pack folder.
-5. Put the resoure pack to Minecraft or Reload the Minecraft resoure pack
+4. Copiez les fichiers de « HappyHUD\built-pack » et collez-les dans le dossier du pack de ressources.
+5. Mettez le pack de ressources sur Minecraft ou rechargez le pack de ressources Minecraft
