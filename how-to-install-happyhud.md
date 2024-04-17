@@ -29,7 +29,7 @@ layout:
         happyhud: "ItemsAdder/contents"
     ```
 5. Run command `/happyhud reload`
-6. run command `/iazip`
+6. Run command `/iazip`
 
 ### Oraxen & HappyHUD Setup:
 
@@ -46,7 +46,7 @@ layout:
         happyhud: "Oraxen/pack/assets"
     ```
 5. Run command /happyhud reload
-6. run command /o reload all
+6. Run command /o reload all
 
 ### Defualt Resoure Pack & HappyHUD Setup:
 
