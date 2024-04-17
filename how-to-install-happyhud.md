@@ -36,7 +36,7 @@ layout:
 1. If you have an old 'HappyHUD' folder, please delete it and install the new one
 2. Set `hide_scoreboard_numbers: false` in your settings.yml file.
 3. Delete `Oraxen/pack/shaders/core/rendertype_text.json` and `rendertype_text.vsh` if they exist.
-4.  In the HappyHud config.yml set `copy-resource-pack` to `enabled: true` and make the path `path: Oraxen/pack/assets`.
+4.  In the `HappyHud/config.yml` set `copy-resource-pack` to `enabled: true` and make the path `path: Oraxen/pack/assets`.
 
     ```yaml
     copy-resource-pack:
