@@ -12,11 +12,11 @@ layout:
     visible: false
 ---
 
-# How to install itempack
+# Comment installer un itempack
 
-## How to install itempack
+### **Comment installer un itempack**
 
-#### Requirement
+#### **Plugin dépendant**
 
 • Itemsadder (with LoneLibs and ProtocolLibs) or Oraxen&#x20;
 
@@ -27,15 +27,12 @@ layout:
 • ProtocolLib
 
 {% hint style="danger" %}
-**Make sure** that all of your plugins and server software are up to date!
+**Assurez-vous que tous vos plugins et logiciels serveur sont à jour !**
 {% endhint %}
 
-## How to install
+### **Comment installer**
 
-1\. Please double-check to ensure that you have installed the plugins as we have specified.
-
-2\. Copy both "ItemsAdder Setup/Itemsadder" or "Oraxen Setup/Oraxen" into your plugins folder of your server.
-
-3\. use the command '/ia zip' or '/o reload all'.&#x20;
-
-4\. enjoy!!
+1. Veuillez vérifier attentivement que vous avez installé les plugins comme indiqué.
+2. Copiez "ItemsAdder Setup/Itemsadder" ou "Oraxen Setup/Oraxen" dans le dossier "plugins" de votre serveur.
+3. Utilisez la commande '/ia zip' ou '/o reload all'.
+4. Amusez-vous bien !
