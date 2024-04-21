@@ -14,15 +14,15 @@ layout:
 
 # How to install itempack
 
-## How to install itempack
+Cómo instalar el paquete de elementos
 
-#### Requirement
+### Requisito
 
-• Itemsadder (with LoneLibs and ProtocolLibs) or Oraxen&#x20;
+• Itemsadder (with LoneLibs and ProtocolLibs) or Oraxen
 
 • HappyHUD
 
-• PlaceholderAPI&#x20;
+• PlaceholderAPI
 
 • ProtocolLib
 
@@ -30,12 +30,12 @@ layout:
 **Make sure** that all of your plugins and server software are up to date!
 {% endhint %}
 
-## How to install
+### Cómo instalar
 
 1\. Please double-check to ensure that you have installed the plugins as we have specified.
 
-2\. Copy both "ItemsAdder Setup/Itemsadder" or "Oraxen Setup/Oraxen" into your plugins folder of your server.
+2\.&#x20;
 
-3\. use the command '/ia zip' or '/o reload all'.&#x20;
+3\. use the command '/ia zip' or '/o reload all'.
 
 4\. enjoy!!
