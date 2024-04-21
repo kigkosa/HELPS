@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# How to install itempack
+# Cómo instalar el paquete de elementos
 
 Cómo instalar el paquete de elementos
 
@@ -32,10 +32,7 @@ Cómo instalar el paquete de elementos
 
 ### Cómo instalar
 
-1\. Please double-check to ensure that you have installed the plugins as we have specified.
-
-2\.&#x20;
-
-3\. use the command '/ia zip' or '/o reload all'.
-
-4\. enjoy!!
+1. &#x20;Please double-check to ensure that you have installed the plugins as we have specified.
+2. &#x20;Copie "ItemsAdder Setup/Itemsadder" o "Oraxen Setup/Oraxen" en la carpeta de complementos de su servidor.
+3. utilice el comando '/ia zip' o '/o recargar todo'.
+4. ¡¡disfruta!!
