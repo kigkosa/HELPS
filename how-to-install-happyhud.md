@@ -12,14 +12,14 @@ layout:
     visible: false
 ---
 
-# How to install HappyHUD
+# Cómo instalar HappyHUD
 
-### Itemadder & HappyHUD Setup
+### Configuración de Itemadder y HappyHUD
 
-1. If you have an old 'HappyHUD' folder, please delete it and install the new one
-2. Disable [ItemsAdder Text Effects](https://itemsadder.devs.beer/plugin-usage/text-effects-1.17+).
-3. Disable [ItemsAdder Hide Scoreboard Numbers](https://itemsadder.devs.beer/plugin-usage/scoreboard/hide-scoreboard-numbers-1.17+).
-4.  In the `HappyHud/config.yml`
+1. Si tiene una carpeta 'HappyHUD' antigua, elimínela e instale la nueva.
+2. Desactivar [ItemsAdder Text Effects](https://itemsadder.devs.beer/plugin-usage/text-effects-1.17+).
+3. Desactivar [ItemsAdder Hide Scoreboard Numbers](https://itemsadder.devs.beer/plugin-usage/scoreboard/hide-scoreboard-numbers-1.17+).
+4.  Editar archivo `HappyHud/config.yml`
 
     ```yaml
     copy-resource-pack:
@@ -28,15 +28,15 @@ layout:
         minecraft: "ItemsAdder/contents"
         happyhud: "ItemsAdder/contents"
     ```
-5. Run command `/happyhud reload`
-6. run command `/iazip`
+5. Ejecutar comando `/happyhud reload`
+6. Ejecutar comando`/iazip`
 
-### Oraxen & HappyHUD Setup:
+### Configuración de Oraxen y HappyHUD:
 
-1. If you have an old 'HappyHUD' folder, please delete it and install the new one
-2. Set `hide_scoreboard_numbers: false` in your settings.yml file.
-3. Delete `Oraxen/pack/shaders/core/rendertype_text.json` and `rendertype_text.vsh` if they exist.
-4.  In the HappyHud config.yml set `copy-resource-pack` to `enabled: true` and make the path `path: Oraxen/pack/assets`.
+1. Si tiene una carpeta 'HappyHUD' antigua, elimínela e instale la nueva.
+2. Establezca hide\_scoreboard\_numbers: false en su archivo settings.yml.
+3. Elimine Oraxen/pack/shaders/core/rendertype\_text.json y rendertype\_text.vsh si existen.
+4.  Editar archivo HappyHud/config.yml
 
     ```yaml
     copy-resource-pack:
@@ -45,18 +45,18 @@ layout:
         minecraft: "Oraxen/pack/assets"
         happyhud: "Oraxen/pack/assets"
     ```
-5. Run command /happyhud reload
-6. run command /o reload all
+5. Ejecutar comando /happyhud reload
+6. Ejecutar comando /o reload all
 
-### Defualt Resoure Pack & HappyHUD Setup:
+### Paquete de recursos predeterminado y configuración de HappyHUD:
 
-1. If you have an old 'HappyHUD' folder, please delete it and install the new one
-2.  In the `HappyHud/config.yml` set `copy-resource-pack to enabled: false`\\
+1. Si tiene una carpeta 'HappyHUD' antigua, elimínela e instale la nueva.
+2.  Editar archivo `HappyHud/config.yml`
 
     ```yaml
     copy-resource-pack:
       enabled: false
     ```
-3. Run command /happyhud reload
-4. Copy the files from "HappyHUD\built-pack" and paste them into the resource pack folder.
-5. Put the resoure pack to Minecraft or Reload the Minecraft resoure pack
+3. Ejecutar comando /happyhud reload
+4. Copie los archivos de "HappyHUD\built-pack" y péguelos en la carpeta del paquete de recursos.
+5. Coloque el paquete de recursos en Minecraft o vuelva a cargar el paquete de recursos de Minecraft
