@@ -12,14 +12,14 @@ layout:
     visible: false
 ---
 
-# How to install HappyHUD
+# HappyHUD 설치 방법
 
-### Itemadder & HappyHUD Setup
+### Oraxen 및 HappyHUD 설정:
 
-1. If you have an old 'HappyHUD' folder, please delete it and install the new one
-2. Disable [ItemsAdder Text Effects](https://itemsadder.devs.beer/plugin-usage/text-effects-1.17+).
-3. Disable [ItemsAdder Hide Scoreboard Numbers](https://itemsadder.devs.beer/plugin-usage/scoreboard/hide-scoreboard-numbers-1.17+).
-4.  In the `HappyHud/config.yml`
+1. **이전의 'HappyHUD' 폴더가 있다면 삭제하고 새로운 것을 설치하세요.**
+2. 기능을 비활성화하십시오 [ItemsAdder Text Effects](https://itemsadder.devs.beer/plugin-usage/text-effects-1.17+).
+3. 기능을 비활성화하십시오 [ItemsAdder Hide Scoreboard Numbers](https://itemsadder.devs.beer/plugin-usage/scoreboard/hide-scoreboard-numbers-1.17+).
+4.  **파일을 편집해 주세요** `HappyHud/config.yml`
 
     ```yaml
     copy-resource-pack:
@@ -28,15 +28,15 @@ layout:
         minecraft: "ItemsAdder/contents"
         happyhud: "ItemsAdder/contents"
     ```
-5. Run command `/happyhud reload`
-6. run command `/iazip`
+5. 채팅에 명령을 입력하십시오 `/happyhud reload`
+6. 채팅에 명령을 입력하십시오 `/iazip`
 
-### Oraxen & HappyHUD Setup:
+### Oraxen 및 HappyHUD 설정:
 
-1. If you have an old 'HappyHUD' folder, please delete it and install the new one
+1. **이전의 'HappyHUD' 폴더가 있다면 삭제하고 새로운 것을 설치하세요.**
 2. Set `hide_scoreboard_numbers: false` in your settings.yml file.
-3. Delete `Oraxen/pack/shaders/core/rendertype_text.json` and `rendertype_text.vsh` if they exist.
-4.  In the HappyHud config.yml set `copy-resource-pack` to `enabled: true` and make the path `path: Oraxen/pack/assets`.
+3. "Oraxen/pack/shaders/core/rendertype\_text.json" 및 "rendertype\_text.vsh"가 있는 경우 삭제합니다.
+4.  **파일을 편집해 주세요** `HappyHud/config.yml`&#x20;
 
     ```yaml
     copy-resource-pack:
@@ -45,18 +45,18 @@ layout:
         minecraft: "Oraxen/pack/assets"
         happyhud: "Oraxen/pack/assets"
     ```
-5. Run command /happyhud reload
-6. run command /o reload all
+5. 채팅에 명령을 입력하십시오 `/happyhud reload`
+6. 채팅에 명령을 입력하십시오 `/o reload all`
 
-### Defualt Resoure Pack & HappyHUD Setup:
+### 기본 리소스 팩 및 HappyHUD 설정:
 
-1. If you have an old 'HappyHUD' folder, please delete it and install the new one
-2.  In the `HappyHud/config.yml` set `copy-resource-pack to enabled: false`\\
+1. **이전의 'HappyHUD' 폴더가 있다면 삭제하고 새로운 것을 설치하세요.**
+2.  **파일을 편집해 주세요** `HappyHud/config.yml`&#x20;
 
     ```yaml
     copy-resource-pack:
       enabled: false
     ```
-3. Run command /happyhud reload
-4. Copy the files from "HappyHUD\built-pack" and paste them into the resource pack folder.
-5. Put the resoure pack to Minecraft or Reload the Minecraft resoure pack
+3. 채팅에 명령을 입력하십시오 /happyhud reload
+4. "HappyHUD\build-pack"에서 파일을 복사하여 리소스 팩 폴더에 붙여넣습니다.
+5. 리소스 팩을 Minecraft에 넣거나 Minecraft 리소스 팩을 다시 로드하세요.
